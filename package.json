@@ -1,0 +1,11 @@
+{
+  "name": "sistema-visitantes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.7",
+    "json2csv": "^6.0.0-alpha.2",
+    "xlsx": "^0.18.5"
+  }
+}
